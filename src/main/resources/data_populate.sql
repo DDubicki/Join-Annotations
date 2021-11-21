@@ -1,0 +1,10 @@
+-- INSERT INTO public.app_user(name) VALUES ('John Doe');
+-- INSERT INTO public.app_user(name) VALUES ('Alex Randell');
+-- INSERT INTO public.app_user(name) VALUES ('Samantha Bufor');
+--
+-- INSERT INTO public.pet(name, app_user_id) VALUES ('Winky', 1);
+-- -- INSERT INTO public.pet(name, app_user_id) VALUES ('Dolly', 1);
+-- INSERT INTO public.pet(name, app_user_id) VALUES ('Grey', 2);
+-- -- INSERT INTO public.pet(name, app_user_id) VALUES ('Lily', 3);
+-- -- INSERT INTO public.pet(name, app_user_id) VALUES ('Billy', 3);
+-- INSERT INTO public.pet(name, app_user_id) VALUES ('Bony', 3);
